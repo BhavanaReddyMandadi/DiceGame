@@ -1,6 +1,6 @@
 # DiceGame
  Check this Fun game and play with your Friends :)   
- Rules in ReadME
+https://bhavanawinnerwinnerchickendinner.netlify.com/
 
 GAME RULES:
 The game has 2 players, playing in rounds
